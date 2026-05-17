@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\lr3\lr3\bin\Debug\lr3.exe.config
+C:\Users\student\source\repos\lr3\lr3\bin\Debug\lr3.exe
+C:\Users\student\source\repos\lr3\lr3\bin\Debug\lr3.pdb
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.Form1.resources
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.Properties.Resources.resources
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.exe
+C:\Users\student\source\repos\lr3\lr3\obj\Debug\lr3.pdb
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\bin\Debug\lr3.exe.config
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\bin\Debug\lr3.exe
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\bin\Debug\lr3.pdb
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.Form1.resources
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.Properties.Resources.resources
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.exe
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr3\lr3\obj\Debug\lr3.pdb

@@ -1,0 +1,27 @@
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\bin\Debug\net8.0-windows\lr4_Graph_System.exe
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\bin\Debug\net8.0-windows\lr4_Graph_System.deps.json
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\bin\Debug\net8.0-windows\lr4_Graph_System.runtimeconfig.json
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\bin\Debug\net8.0-windows\lr4_Graph_System.dll
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\bin\Debug\net8.0-windows\lr4_Graph_System.pdb
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System_MarkupCompile.cache
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System_MarkupCompile.lref
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.g.resources
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.AssemblyInfo.cs
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.dll
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\refint\lr4_Graph_System.dll
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.pdb
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.genruntimeconfig.cache
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\ref\lr4_Graph_System.dll
+C:\Users\student\source\repos\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\App.baml
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\App.g.cs
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System_MarkupCompile.cache
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System_MarkupCompile.lref
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.dll
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\refint\lr4_Graph_System.dll
+Z:\лабы\граф сист бэк\пиздец\huynya_IS_POD_KONYA\lr4_Graph_System\lr4_Graph_System\obj\Debug\net8.0-windows\lr4_Graph_System.pdb
